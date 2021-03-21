@@ -1,0 +1,24 @@
+.wrapper{
+   display: grid;
+   grid-template-columns: ;
+}
+.box1{
+    background-color: cornflowerblue;
+    height:50px;
+    max-width: 100%;
+}
+.box2{
+    background-color: mediumpurple;
+    height:100px;
+    width:100%;
+}
+.box3{
+    background-color: darkgreen;
+    height:100px;
+    width:100%;
+}
+.box4{
+    background-color: steelblue;
+    height:100px;
+    width:100%;
+}
