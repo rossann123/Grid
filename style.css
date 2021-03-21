@@ -23,11 +23,11 @@ body{
 .box3{
     background-color: darkgreen;
     height:100px;
-    grid-column: 1/4;
+    grid-column: 1/5;
 }
 .box4{
     background-color: steelblue;
-    grid-column: 4/7;
+    grid-column: 5/7;
 }
 .box5{
     background-color: #db7900;
